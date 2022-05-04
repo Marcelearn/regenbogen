@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+.a1 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #ff0000
+     }
+.a2 {
+
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #ff9900
+    }
+
+.a3 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #ffff00 
+    }
+.a4 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #008000
+    }
+
+.a5 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #00f7ff
+    }
+.a6 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #090082
+    }
+.a7 {
+    height: 14.2vh;
+    width: 100vw;
+    background-color: #ee82e9
+    }
